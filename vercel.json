@@ -2,7 +2,7 @@
   "version": 2,
   "rewrites": [
     {
-      "source": "/api/socket",
+      "source": "/api/socket.io",
       "destination": "/api/send.js"
     }
   ]

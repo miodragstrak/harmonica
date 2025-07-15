@@ -1,6 +1,5 @@
 import { useState, useEffect } from 'react';
 import { io } from 'socket.io-client';
-import styles from '../styles/globals.css';
 
 const socket = io();
 
